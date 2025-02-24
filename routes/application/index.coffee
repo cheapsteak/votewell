@@ -227,6 +227,7 @@ class Application extends React.Component
       else
         <h2>{name}</h2>
       }
+      <a href="https://338canada.com" className="data-source" target="_blank">based on polling data from 338canada.com</a>
     </div>
 
   chart: ->
